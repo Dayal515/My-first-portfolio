@@ -6,9 +6,16 @@
   font-variation-settings:
     "wdth" 100;
 }
+.bg2{
+  background-color: #fff8f3;
+
+}
 /* color */
 .dark-2{
   color: #474747;
+}
+.dark-3{
+  color: #757575;
 }
 /* button style */
 .btn-primary{
@@ -69,4 +76,31 @@ nav ul li a {
 }
 .banner-profile-pic{
   size: 100%;
+}
+/* main style */
+main{
+  max-width: 580px; margin: 0 auto;
+}
+/* section style */
+.section-title{
+  font-size: 35px; font-weight: bold;color: #181818;
+}
+.section-description{
+  font-size: 18px; color: #757575;
+}
+/* about section style */
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top: 130px;
+}
+.about-items{
+  display: flex;justify-content: space-around;
+}
+.item-title{
+  color: #757575; font-size: 20px;
+}
+.item-description{
+  color: #474747; font-weight: bold; font-size: 20px;
 }
