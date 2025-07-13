@@ -8,7 +8,6 @@
 }
 .bg2{
   background-color: #fff8f3;
-
 }
 /* color */
 .dark-2{
@@ -79,7 +78,7 @@ nav ul li a {
 }
 /* main style */
 main{
-  max-width: 580px; margin: 0 auto;
+  max-width: 1140px; margin: 0 auto;
 }
 /* section style */
 .section-title{
